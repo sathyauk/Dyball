@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5HnyoDSkTX3GSbvMv+9Fkr7/R5p8VEYnF4yRoHC+qE6ecGCukEKIitnqTwXnwvH1Bv1z0Op9ONxUGTec1HnZ4g==",
+  "success": true,
+  "projectFilePath": "C:\\Test\\Dyball\\Dyball.BussinessLayer\\Dyball.ServiceLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sathy\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

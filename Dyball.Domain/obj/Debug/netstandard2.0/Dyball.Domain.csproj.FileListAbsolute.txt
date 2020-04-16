@@ -1,0 +1,17 @@
+C:\demo\winform\Dyball.Domain\bin\Debug\netstandard2.0\Dyball.Domain.deps.json
+C:\demo\winform\Dyball.Domain\bin\Debug\netstandard2.0\Dyball.Domain.dll
+C:\demo\winform\Dyball.Domain\bin\Debug\netstandard2.0\Dyball.Domain.pdb
+C:\demo\winform\Dyball.Domain\obj\Debug\netstandard2.0\Dyball.Domain.csproj.CoreCompileInputs.cache
+C:\demo\winform\Dyball.Domain\obj\Debug\netstandard2.0\Dyball.Domain.AssemblyInfoInputs.cache
+C:\demo\winform\Dyball.Domain\obj\Debug\netstandard2.0\Dyball.Domain.AssemblyInfo.cs
+C:\demo\winform\Dyball.Domain\obj\Debug\netstandard2.0\Dyball.Domain.dll
+C:\demo\winform\Dyball.Domain\obj\Debug\netstandard2.0\Dyball.Domain.pdb
+C:\Test\Dyball\Dyball.Domain\bin\Debug\netstandard2.0\Dyball.Domain.deps.json
+C:\Test\Dyball\Dyball.Domain\bin\Debug\netstandard2.0\Dyball.Domain.dll
+C:\Test\Dyball\Dyball.Domain\bin\Debug\netstandard2.0\Dyball.Domain.pdb
+C:\Test\Dyball\Dyball.Domain\obj\Debug\netstandard2.0\Dyball.Domain.csprojAssemblyReference.cache
+C:\Test\Dyball\Dyball.Domain\obj\Debug\netstandard2.0\Dyball.Domain.csproj.CoreCompileInputs.cache
+C:\Test\Dyball\Dyball.Domain\obj\Debug\netstandard2.0\Dyball.Domain.AssemblyInfoInputs.cache
+C:\Test\Dyball\Dyball.Domain\obj\Debug\netstandard2.0\Dyball.Domain.AssemblyInfo.cs
+C:\Test\Dyball\Dyball.Domain\obj\Debug\netstandard2.0\Dyball.Domain.dll
+C:\Test\Dyball\Dyball.Domain\obj\Debug\netstandard2.0\Dyball.Domain.pdb

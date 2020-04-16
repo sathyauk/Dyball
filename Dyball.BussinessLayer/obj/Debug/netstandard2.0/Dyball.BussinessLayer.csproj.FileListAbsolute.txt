@@ -1,0 +1,9 @@
+C:\demo\winform\Dyball.BussinessLayer\bin\Debug\netstandard2.0\Dyball.BussinessLayer.deps.json
+C:\demo\winform\Dyball.BussinessLayer\bin\Debug\netstandard2.0\Dyball.BussinessLayer.dll
+C:\demo\winform\Dyball.BussinessLayer\bin\Debug\netstandard2.0\Dyball.BussinessLayer.pdb
+C:\demo\winform\Dyball.BussinessLayer\obj\Debug\netstandard2.0\Dyball.BussinessLayer.csprojAssemblyReference.cache
+C:\demo\winform\Dyball.BussinessLayer\obj\Debug\netstandard2.0\Dyball.BussinessLayer.csproj.CoreCompileInputs.cache
+C:\demo\winform\Dyball.BussinessLayer\obj\Debug\netstandard2.0\Dyball.BussinessLayer.AssemblyInfoInputs.cache
+C:\demo\winform\Dyball.BussinessLayer\obj\Debug\netstandard2.0\Dyball.BussinessLayer.AssemblyInfo.cs
+C:\demo\winform\Dyball.BussinessLayer\obj\Debug\netstandard2.0\Dyball.BussinessLayer.dll
+C:\demo\winform\Dyball.BussinessLayer\obj\Debug\netstandard2.0\Dyball.BussinessLayer.pdb
