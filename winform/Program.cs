@@ -21,7 +21,7 @@ namespace winform
 
             BonusSkins.Register();
             SkinManager.EnableFormSkins();
-            UserLookAndFeel.Default.SetSkinStyle("DevExpress Style");
+            ///UserLookAndFeel.Default.SetSkinStyle("DevExpress Style");
             Application.Run(new Form1());
         }
     }
