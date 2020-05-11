@@ -46,5 +46,5 @@ steps:
 - task: PublishBuildArtifacts@1
   displayName: Publish Site
   inputs:
-    PathtoPublish: '$(System.DefaultWorkingDirectory)/$(Build.BuildId).zip'
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
     ArtifactName: www
