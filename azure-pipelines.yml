@@ -36,7 +36,7 @@ steps:
 
 - task: ArchiveFiles@2
   inputs:
-    rootFolderOrFile: 'Dyball/bin/Release'
+    rootFolderOrFile: '$(Build.BinariesDirectory)'
     includeRootFolder: false
     archiveType: zip
     archiveFile: '$(Build.ArtifactStagingDirectory)/bin/$(Build.BuildId).zip'
